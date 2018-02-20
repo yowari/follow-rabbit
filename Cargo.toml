@@ -1,0 +1,9 @@
+[package]
+name = "follow-rabbit"
+version = "1.0.0"
+authors = ["yowari <yowari@outlook.com>"]
+
+[dependencies]
+rust-crypto = "0.2.36"
+clap = "2.29.4"
+rayon = "1.0.0"
